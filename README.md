@@ -1,6 +1,6 @@
 Lavejeet Singh
 
-21/06/2021
+22/06/2021
 
 
 Introduction
@@ -105,6 +105,9 @@ Create a new factor variable in the dataset with two levels – “weekday” an
 
 Make a panel plot containing a time series plot (i.e. \color{red}{\verb|type = "l"|}type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). See the README file in the GitHub repository to see an example of what this plot should look like using simulated data.
 
+![image](https://user-images.githubusercontent.com/82660322/122899619-99c84d80-d369-11eb-945c-115fb6583776.png)
+
+
 Submitting the Assignment
 
 To submit the assignment:
@@ -132,7 +135,10 @@ You will see a list of commits that you have made to this repository. The most r
 A valid submission will look something like (this is just an example!)
 
 
-https://github.com/rdpeng/RepData_PeerAssessment17c376cc54
+https://github.com/rdpeng/RepData_PeerAssessment1
 
-47f11537f8740af8e07d6facc3d9645
+7c376cc5447f11537f8740af8e07d6facc3d9645
+
+
+
 
